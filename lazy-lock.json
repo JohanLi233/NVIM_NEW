@@ -7,7 +7,7 @@
   "astrocommunity": { "branch": "main", "commit": "f2ddc4d3709d11ce862ba24a5390c9e6d7d2a6c8" },
   "astrocore": { "branch": "main", "commit": "29befa985b96809272c04a90608dd10c1cba221a" },
   "astrolsp": { "branch": "main", "commit": "21629f447c574965399329a8dd925d9eeac82752" },
-  "astrotheme": { "branch": "main", "commit": "eafc1359d4a25967d45e05b088ab6c8f03bf9a5d" },
+  "astrotheme": { "branch": "main", "commit": "e056b8216214f7140eda3e0adcfc27efba705231" },
   "astroui": { "branch": "main", "commit": "5aa0f687e111a120a33746c89926604134f9ae74" },
   "catppuccin": { "branch": "main", "commit": "aebe43db9cb26e1c70fc5b2fd4158169c405e720" },
   "cmp-buffer": { "branch": "main", "commit": "3022dbc9166796b644a841a02de8dd1cc1d311fa" },
