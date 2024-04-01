@@ -20,4 +20,4 @@ end
 
 require "lazy_setup"
 require "polish"
-require "lua.autocmds"
+-- require "lua.autocmds"

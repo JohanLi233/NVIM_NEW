@@ -1,4 +1,4 @@
 if vim.g.neovide then
-  local neovide = require "utils.neovide"
+  local neovide = require "lua.utils.neovide"
   neovide.init()
 end
