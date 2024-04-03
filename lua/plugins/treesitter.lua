@@ -11,6 +11,11 @@ return {
       "lua",
       "vim",
       -- add more arguments for adding more treesitter parsers
+      "python",
+      "cpp",
+      "c",
+      "go",
+      "rust",
     })
   end,
 }
