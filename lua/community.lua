@@ -12,5 +12,6 @@ return {
   { import = "astrocommunity.pack.go" },
   { import = "astrocommunity.pack.cmake" },
   { import = "astrocommunity.pack.cpp" },
+  { import = "astrocommunity.pack.scala" },
   { import = "astrocommunity.colorscheme.catppuccin" },
 }
